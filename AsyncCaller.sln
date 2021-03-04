@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncCaller", "AsyncCaller\AsyncCaller.csproj", "{1658CE23-1983-471C-91D1-CDC107A2F474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1658CE23-1983-471C-91D1-CDC107A2F474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1658CE23-1983-471C-91D1-CDC107A2F474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1658CE23-1983-471C-91D1-CDC107A2F474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1658CE23-1983-471C-91D1-CDC107A2F474}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CCB1D6D-AE79-48D7-8904-7F94D70FD70F}
+	EndGlobalSection
+EndGlobal
