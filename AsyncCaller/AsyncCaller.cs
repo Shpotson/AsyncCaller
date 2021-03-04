@@ -9,7 +9,7 @@ namespace AsyncCaller
         protected EventHandler handler;
         EventWaitHandle door = new EventWaitHandle(false, EventResetMode.ManualReset);
 
-        //Результат выполнения
+        //Shows the result of invoke (true if the delegate's methods was accomlished in the allotted time)
         private bool result;
         public AsyncCaller(EventHandler handler)
         {
