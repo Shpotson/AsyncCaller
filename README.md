@@ -29,6 +29,10 @@ __= AsyncCaller + AsyncCaller__
 
 Returns new AsyncCaller instance with combined EventHandler delegates from both AsyncCaller instances. 
 
+_throws AsyncCallerException if any instance is null_
+
 __= AsyncCaller + EventHandler__
 
 Returns new AsyncCaller instance with combined EventHandler delegate and AsyncCaller instance of EventHandler.
+
+_throws AsyncCallerException if any instance is null_
